@@ -1,0 +1,73 @@
+Variable : a
+Variable : b
+Variable : c
+Variable : discriminant
+Variable : root1
+Variable : root2
+Variable : realPart
+Variable : imagPart
+Variable : b
+Variable : b
+Operator: MUL 
+Literal : 4
+Variable : a
+Operator: MUL 
+Variable : c
+Operator: MUL 
+Operator: MINUS 
+ASSIGNMENT :=
+
+Variable : discriminant
+Literal : 
+0
+Operator: != 
+Variable : b
+Variable : discriminant
+Operator: PLUS 
+Literal : 2
+Variable : a
+Operator: MUL 
+Operator: DIV 
+ASSIGNMENT :=
+
+Variable : b
+Variable : discriminant
+Operator: MINUS 
+Literal : 2
+Variable : a
+Operator: MUL 
+Operator: DIV 
+ASSIGNMENT :=
+
+Variable : discriminant
+Literal : 
+0
+Operator: == 
+Variable : b
+Literal : 2
+Variable : a
+Operator: MUL 
+Operator: DIV 
+ASSIGNMENT :=
+
+Variable : b
+Literal : 2
+Variable : a
+Operator: MUL 
+Operator: DIV 
+ASSIGNMENT :=
+
+Variable : discriminant
+Literal : 2
+Variable : a
+Operator: MUL 
+Operator: DIV 
+ASSIGNMENT :=
+
+IF-ELSE := 
+ 
+IF-ELSE := 
+ 
+FUNCTION DEFINITION
+
+
